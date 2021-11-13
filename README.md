@@ -8,5 +8,4 @@ I put the limitations in front so you can check whether it meet your requirement
 2. Perform simple condition only. (1 condition)
 
 ### Prerequisites
-There is one external module call **VerticalScrolledFrame.py** which is upload together with the Excel-Merger.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+There is one external module call + VerticalScrolledFrame.py + which is upload together with the Excel-Merger.
