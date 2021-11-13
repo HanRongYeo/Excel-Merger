@@ -20,4 +20,5 @@ The rest of modules are come with Python.
 ### How To Use
 1. Load your left table and right table.
 2. Select the joining method. (Left, Right, Inner, Outer)
-3. Click Save to export the result to an excel file.<br/>Click Reset to clear the output preview.
+3. Right click to delete the column you don't want it in the output table.
+4. Click Save to export the result to an excel file.<br/>Click Reset do it again.
