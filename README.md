@@ -8,4 +8,11 @@ I put the limitations in front so you can check whether it meet your requirement
 2. Perform simple condition only. (1 condition)
 
 ### Prerequisites
-There is one external module call + VerticalScrolledFrame.py + which is upload together with the Excel-Merger.
+There is one external module call VerticalScrolledFrame.py which is upload together with the Excel-Merger.
+The rest of modules are come with Python.
+- tkinter
+- pandas
+- os
+
+### How To Use
+
