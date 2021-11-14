@@ -20,18 +20,18 @@ The rest of modules are come with Python.
 - VerticalScrolledFrame
 
 ### How To Use
-1. Load your left table and right table.
-![open](https://user-images.githubusercontent.com/94159290/141667423-9d0d4516-551c-4dc8-bc9a-99852c24218f.gif)
+1. Load your left table and right table.<br/>
+![open](https://user-images.githubusercontent.com/94159290/141667423-9d0d4516-551c-4dc8-bc9a-99852c24218f.gif)<br/>
 
-3. Select the joining method. (Left, Right, Inner, Outer)
-![method](https://user-images.githubusercontent.com/94159290/141667429-ff28a6b0-a3f0-496b-a4b8-ef0e62e32ff2.gif)
+3. Select the joining method. (Left, Right, Inner, Outer)<br/>
+![method](https://user-images.githubusercontent.com/94159290/141667429-ff28a6b0-a3f0-496b-a4b8-ef0e62e32ff2.gif)<br/>
 
-4. Match the key!
-![join](https://user-images.githubusercontent.com/94159290/141667459-1397c1ba-f296-4340-9bd5-2c5c13b0153c.gif)
+4. Match the key!<br/>
+![join](https://user-images.githubusercontent.com/94159290/141667459-1397c1ba-f296-4340-9bd5-2c5c13b0153c.gif)<br/>
 
-5. Right click to delete the column you don't want it in the output table.
-![rightclick](https://user-images.githubusercontent.com/94159290/141667447-59ab8ad1-b28c-46d1-9cf7-128f6c1b48e0.gif)
+5. Right click to delete the column you don't want it in the output table.<br/>
+![rightclick](https://user-images.githubusercontent.com/94159290/141667447-59ab8ad1-b28c-46d1-9cf7-128f6c1b48e0.gif)<br/>
 
-6. Click Save to export the result to an excel file.<br/>Click Reset do it again.
-![save](https://user-images.githubusercontent.com/94159290/141667472-84241180-48ea-492a-bef1-646da1bdc44b.gif)
+6. Click Save to export the result to an excel file.<br/>Click Reset do it again.<br/>
+![save](https://user-images.githubusercontent.com/94159290/141667472-84241180-48ea-492a-bef1-646da1bdc44b.gif)<br/>
 
